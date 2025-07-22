@@ -5,7 +5,6 @@
 package com.mycompany.qlks_da_1.UI;
 
 import com.mycompany.qlks_da_1.UI.Login;
-import com.mycompany.qlks_da_1.UI.Login;
 
 /**
  *
