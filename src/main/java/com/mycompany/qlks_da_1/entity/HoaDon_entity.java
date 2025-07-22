@@ -2,7 +2,7 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
-package entity;
+package com.mycompany.qlks_da_1.entity;
 
 /**
  *
@@ -10,14 +10,14 @@ package entity;
  */
 import java.util.Date;
 
-public class DatPhong_entity{
+public class HoaDon_entity {
+    private String maHoaDon;
     private String maDatPhong;
-    private String maKH;
-    private String maPhong;
     private String maNV;
-    private Date ngayDat;
-    private Date ngayNhan;
-    private Date ngayTra;
+    private Date ngayTaoHD;
+    private double tongTien;
+    private String ghiChu;
 
     // Constructors, Getters and Setters
 }
+
