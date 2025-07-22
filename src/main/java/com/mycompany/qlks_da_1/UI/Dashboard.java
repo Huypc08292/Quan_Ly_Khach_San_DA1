@@ -2,7 +2,7 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/GUIForms/JFrame.java to edit this template
  */
-package com.mycompany.qlks_da_1;
+package com.mycompany.qlks_da_1.UI;
 
 /**
  *
@@ -37,7 +37,6 @@ public class Dashboard extends javax.swing.JFrame {
         lblEmployee = new javax.swing.JLabel();
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
-        setPreferredSize(new java.awt.Dimension(800, 500));
 
         jPanel1.setPreferredSize(new java.awt.Dimension(800, 500));
 

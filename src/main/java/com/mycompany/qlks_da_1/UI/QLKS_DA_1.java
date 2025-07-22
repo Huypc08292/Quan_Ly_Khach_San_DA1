@@ -2,7 +2,10 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  */
 
-package com.mycompany.qlks_da_1;
+package com.mycompany.qlks_da_1.UI;
+
+import com.mycompany.qlks_da_1.UI.Login;
+import com.mycompany.qlks_da_1.UI.Login;
 
 /**
  *

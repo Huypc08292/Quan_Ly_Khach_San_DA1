@@ -2,22 +2,18 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
-package entity;
+package com.mycompany.qlks_da_1.entity;
 
 /**
  *
  * @author ASUS
  */
-import java.util.Date;
-
-public class HoaDon_entity {
-    private String maHoaDon;
-    private String maDatPhong;
-    private String maNV;
-    private Date ngayTaoHD;
-    private double tongTien;
-    private String ghiChu;
+public class Phong_entity {
+    private String maPhong;
+    private String tenPhong;
+    private String loaiPhong;
+    private double giaPhong;
+    private String trangThai;
 
     // Constructors, Getters and Setters
 }
-
