@@ -11,12 +11,67 @@ package com.mycompany.qlks_da_1.entity;
 import java.util.Date;
 
 public class SuDungDV_entity {
+
     private String maSuDung;
     private String maDatPhong;
     private String maDV;
     private int soLuong;
     private Date ngaySuDung;
 
-    // Constructors, Getters and Setters
-}
+    public SuDungDV_entity() {
+    }
 
+    public SuDungDV_entity(String maSuDung, String maDatPhong, String maDV, int soLuong, Date ngaySuDung) {
+        this.maSuDung = maSuDung;
+        this.maDatPhong = maDatPhong;
+        this.maDV = maDV;
+        this.soLuong = soLuong;
+        this.ngaySuDung = ngaySuDung;
+    }
+
+    public String getMaSuDung() {
+        return maSuDung;
+    }
+
+    public void setMaSuDung(String maSuDung) {
+        this.maSuDung = maSuDung;
+    }
+
+    public String getMaDatPhong() {
+        return maDatPhong;
+    }
+
+    public void setMaDatPhong(String maDatPhong) {
+        this.maDatPhong = maDatPhong;
+    }
+
+    public String getMaDV() {
+        return maDV;
+    }
+
+    public void setMaDV(String maDV) {
+        this.maDV = maDV;
+    }
+
+    public int getSoLuong() {
+        return soLuong;
+    }
+
+    public void setSoLuong(int soLuong) {
+        this.soLuong = soLuong;
+    }
+
+    public Date getNgaySuDung() {
+        return ngaySuDung;
+    }
+
+    public void setNgaySuDung(Date ngaySuDung) {
+        this.ngaySuDung = ngaySuDung;
+    }
+
+    @Override
+    public String toString() {
+        return "SuDungDV_entity{" + "maSuDung=" + maSuDung + ", maDatPhong=" + maDatPhong + ", maDV=" + maDV + ", soLuong=" + soLuong + ", ngaySuDung=" + ngaySuDung + '}';
+    }
+
+}
