@@ -7,7 +7,11 @@ D:\Git\Quan_Ly_Khach_San\src\main\java\com\mycompany\qlks_da_1\entity\Phong_enti
 D:\Git\Quan_Ly_Khach_San\src\main\java\com\mycompany\qlks_da_1\entity\SuDungDV_entity.java
 D:\Git\Quan_Ly_Khach_San\src\main\java\com\mycompany\qlks_da_1\UI\ConnectDB.java
 D:\Git\Quan_Ly_Khach_San\src\main\java\com\mycompany\qlks_da_1\UI\Dashboard.java
+D:\Git\Quan_Ly_Khach_San\src\main\java\com\mycompany\qlks_da_1\UI\KhachHang.java
 D:\Git\Quan_Ly_Khach_San\src\main\java\com\mycompany\qlks_da_1\UI\Login.java
 D:\Git\Quan_Ly_Khach_San\src\main\java\com\mycompany\qlks_da_1\UI\NhanPhong.java
+D:\Git\Quan_Ly_Khach_San\src\main\java\com\mycompany\qlks_da_1\UI\NhanVien.java
 D:\Git\Quan_Ly_Khach_San\src\main\java\com\mycompany\qlks_da_1\UI\QLKS_DA_1.java
 D:\Git\Quan_Ly_Khach_San\src\main\java\com\mycompany\qlks_da_1\UI\SignUp.java
+D:\Git\Quan_Ly_Khach_San\src\main\java\com\mycompany\qlks_da_1\UI\ThemPhong.java
+D:\Git\Quan_Ly_Khach_San\src\main\java\com\mycompany\qlks_da_1\UI\TraPhong.java
