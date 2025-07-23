@@ -1,5 +1,17 @@
-C:\Users\ADMIN\Documents\Zalo Received Files\QLKS_DA_1\QLKS_DA_1\src\main\java\com\mycompany\qlks_da_1\ConnectDB.java
-C:\Users\ADMIN\Documents\Zalo Received Files\QLKS_DA_1\QLKS_DA_1\src\main\java\com\mycompany\qlks_da_1\Dashboard.java
-C:\Users\ADMIN\Documents\Zalo Received Files\QLKS_DA_1\QLKS_DA_1\src\main\java\com\mycompany\qlks_da_1\Login.java
-C:\Users\ADMIN\Documents\Zalo Received Files\QLKS_DA_1\QLKS_DA_1\src\main\java\com\mycompany\qlks_da_1\QLKS_DA_1.java
-C:\Users\ADMIN\Documents\Zalo Received Files\QLKS_DA_1\QLKS_DA_1\src\main\java\com\mycompany\qlks_da_1\SignUp.java
+D:\Git\Quan_Ly_Khach_San\src\main\java\com\mycompany\qlks_da_1\entity\DatPhong_entity.java
+D:\Git\Quan_Ly_Khach_San\src\main\java\com\mycompany\qlks_da_1\entity\DichVu_entity.java
+D:\Git\Quan_Ly_Khach_San\src\main\java\com\mycompany\qlks_da_1\entity\HoaDon_entity.java
+D:\Git\Quan_Ly_Khach_San\src\main\java\com\mycompany\qlks_da_1\entity\KhachHang_entity.java
+D:\Git\Quan_Ly_Khach_San\src\main\java\com\mycompany\qlks_da_1\entity\NhanVien_entity.java
+D:\Git\Quan_Ly_Khach_San\src\main\java\com\mycompany\qlks_da_1\entity\Phong_entity.java
+D:\Git\Quan_Ly_Khach_San\src\main\java\com\mycompany\qlks_da_1\entity\SuDungDV_entity.java
+D:\Git\Quan_Ly_Khach_San\src\main\java\com\mycompany\qlks_da_1\UI\ConnectDB.java
+D:\Git\Quan_Ly_Khach_San\src\main\java\com\mycompany\qlks_da_1\UI\Dashboard.java
+D:\Git\Quan_Ly_Khach_San\src\main\java\com\mycompany\qlks_da_1\UI\KhachHang.java
+D:\Git\Quan_Ly_Khach_San\src\main\java\com\mycompany\qlks_da_1\UI\Login.java
+D:\Git\Quan_Ly_Khach_San\src\main\java\com\mycompany\qlks_da_1\UI\NhanPhong.java
+D:\Git\Quan_Ly_Khach_San\src\main\java\com\mycompany\qlks_da_1\UI\NhanVien.java
+D:\Git\Quan_Ly_Khach_San\src\main\java\com\mycompany\qlks_da_1\UI\QLKS_DA_1.java
+D:\Git\Quan_Ly_Khach_San\src\main\java\com\mycompany\qlks_da_1\UI\SignUp.java
+D:\Git\Quan_Ly_Khach_San\src\main\java\com\mycompany\qlks_da_1\UI\ThemPhong.java
+D:\Git\Quan_Ly_Khach_San\src\main\java\com\mycompany\qlks_da_1\UI\TraPhong.java
