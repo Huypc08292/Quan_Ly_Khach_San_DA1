@@ -5,6 +5,19 @@ D:\Git\Quan_Ly_Khach_San\src\main\java\com\mycompany\qlks_da_1\entity\KhachHang_
 D:\Git\Quan_Ly_Khach_San\src\main\java\com\mycompany\qlks_da_1\entity\NhanVien_entity.java
 D:\Git\Quan_Ly_Khach_San\src\main\java\com\mycompany\qlks_da_1\entity\Phong_entity.java
 D:\Git\Quan_Ly_Khach_San\src\main\java\com\mycompany\qlks_da_1\entity\SuDungDV_entity.java
+<<<<<<< Updated upstream
+=======
+D:\Git\Quan_Ly_Khach_San\src\main\java\com\mycompany\qlks_da_1\entity\TaiKhoan_entity.java
+D:\Git\Quan_Ly_Khach_San\src\main\java\com\mycompany\qlks_da_1\qlks_da_1_DAO\DatPhong_DAO.java
+D:\Git\Quan_Ly_Khach_San\src\main\java\com\mycompany\qlks_da_1\qlks_da_1_DAO\DichVuDAO.java
+D:\Git\Quan_Ly_Khach_San\src\main\java\com\mycompany\qlks_da_1\qlks_da_1_DAO\HoaDonDAO.java
+D:\Git\Quan_Ly_Khach_San\src\main\java\com\mycompany\qlks_da_1\qlks_da_1_DAO\KhachHang_DAO.java
+D:\Git\Quan_Ly_Khach_San\src\main\java\com\mycompany\qlks_da_1\qlks_da_1_DAO\NhanVienDAO.java
+D:\Git\Quan_Ly_Khach_San\src\main\java\com\mycompany\qlks_da_1\qlks_da_1_DAO\Phong_DAO.java
+D:\Git\Quan_Ly_Khach_San\src\main\java\com\mycompany\qlks_da_1\qlks_da_1_DAO\SuDungDV_DAO.java
+D:\Git\Quan_Ly_Khach_San\src\main\java\com\mycompany\qlks_da_1\qlks_da_1_DAO\TaiKhoanDAO.java
+D:\Git\Quan_Ly_Khach_San\src\main\java\com\mycompany\qlks_da_1\QLKS_Utils\XJdbc.java
+>>>>>>> Stashed changes
 D:\Git\Quan_Ly_Khach_San\src\main\java\com\mycompany\qlks_da_1\UI\ConnectDB.java
 D:\Git\Quan_Ly_Khach_San\src\main\java\com\mycompany\qlks_da_1\UI\Dashboard.java
 D:\Git\Quan_Ly_Khach_San\src\main\java\com\mycompany\qlks_da_1\UI\KhachHang.java

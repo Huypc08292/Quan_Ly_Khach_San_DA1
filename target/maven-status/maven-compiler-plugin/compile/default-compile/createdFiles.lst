@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 com\mycompany\qlks_da_1\TraPhong$1.class
 com\mycompany\qlks_da_1\entity\HoaDon_entity.class
 com\mycompany\qlks_da_1\UI\Login$2.class
@@ -27,3 +28,5 @@ com\mycompany\qlks_da_1\UI\QLKS_DA_1.class
 com\mycompany\qlks_da_1\UI\SignUp$2.class
 com\mycompany\qlks_da_1\UI\ConnectDB.class
 com\mycompany\qlks_da_1\KhachHang.class
+=======
+>>>>>>> Stashed changes

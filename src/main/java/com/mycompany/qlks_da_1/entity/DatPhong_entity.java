@@ -10,7 +10,8 @@ package com.mycompany.qlks_da_1.entity;
  */
 import java.util.Date;
 
-public class DatPhong_entity{
+public class DatPhong_entity {
+
     private String maDatPhong;
     private String maKH;
     private String maPhong;
@@ -18,13 +19,13 @@ public class DatPhong_entity{
     private Date ngayDat;
     private Date ngayNhan;
     private Date ngayTra;
+    private String TinhTrang;
 
     // Constructors, Getters and Setters
-
     public DatPhong_entity() {
     }
 
-    public DatPhong_entity(String maDatPhong, String maKH, String maPhong, String maNV, Date ngayDat, Date ngayNhan, Date ngayTra) {
+    public DatPhong_entity(String maDatPhong, String maKH, String maPhong, String maNV, Date ngayDat, Date ngayNhan, Date ngayTra, String TinhTrang) {
         this.maDatPhong = maDatPhong;
         this.maKH = maKH;
         this.maPhong = maPhong;
@@ -32,6 +33,7 @@ public class DatPhong_entity{
         this.ngayDat = ngayDat;
         this.ngayNhan = ngayNhan;
         this.ngayTra = ngayTra;
+        this.TinhTrang = TinhTrang;
     }
 
     public String getMaDatPhong() {
@@ -90,11 +92,17 @@ public class DatPhong_entity{
         this.ngayTra = ngayTra;
     }
 
-    @Override
-    public String toString() {
-        return "DatPhong_entity{" + "maDatPhong=" + maDatPhong + ", maKH=" + maKH + ", maPhong=" + maPhong + ", maNV=" + maNV + ", ngayDat=" + ngayDat + ", ngayNhan=" + ngayNhan + ", ngayTra=" + ngayTra + '}';
+    public String getTinhTrang() {
+        return TinhTrang;
     }
 
-    
-    
+    public void setTinhTrang(String TinhTrang) {
+        this.TinhTrang = TinhTrang;
+    }
+
+    @Override
+    public String toString() {
+        return "DatPhong_entity{" + "maDatPhong=" + maDatPhong + ", maKH=" + maKH + ", maPhong=" + maPhong + ", maNV=" + maNV + ", ngayDat=" + ngayDat + ", ngayNhan=" + ngayNhan + ", ngayTra=" + ngayTra + ", TinhTrang=" + TinhTrang + '}';
+    }
+
 }

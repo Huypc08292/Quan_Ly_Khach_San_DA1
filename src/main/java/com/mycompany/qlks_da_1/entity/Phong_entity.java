@@ -15,16 +15,18 @@ public class Phong_entity {
     private String loaiPhong;
     private double giaPhong;
     private String trangThai;
+    private String MoTa;
 
     public Phong_entity() {
     }
 
-    public Phong_entity(String maPhong, String tenPhong, String loaiPhong, double giaPhong, String trangThai) {
+    public Phong_entity(String maPhong, String tenPhong, String loaiPhong, double giaPhong, String trangThai, String MoTa) {
         this.maPhong = maPhong;
         this.tenPhong = tenPhong;
         this.loaiPhong = loaiPhong;
         this.giaPhong = giaPhong;
         this.trangThai = trangThai;
+        this.MoTa = MoTa;
     }
 
     public String getMaPhong() {
@@ -67,10 +69,19 @@ public class Phong_entity {
         this.trangThai = trangThai;
     }
 
+    public String getMoTa() {
+        return MoTa;
+    }
+
+    public void setMoTa(String MoTa) {
+        this.MoTa = MoTa;
+    }
+
     @Override
     public String toString() {
-        return "Phong_entity{" + "maPhong=" + maPhong + ", tenPhong=" + tenPhong + ", loaiPhong=" + loaiPhong + ", giaPhong=" + giaPhong + ", trangThai=" + trangThai + '}';
+        return "Phong_entity{" + "maPhong=" + maPhong + ", tenPhong=" + tenPhong + ", loaiPhong=" + loaiPhong + ", giaPhong=" + giaPhong + ", trangThai=" + trangThai + ", MoTa=" + MoTa + '}';
     }
+    
     
     
     
